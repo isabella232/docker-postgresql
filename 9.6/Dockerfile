@@ -1,5 +1,5 @@
-FROM ubuntu:xenial
-MAINTAINER romeOz <serggalka@gmail.com>
+FROM ubuntu:zesty
+MAINTAINER LiquidM <tech@liquidm.com>
 
 ENV OS_LOCALE="en_US.UTF-8" \
     OS_LANGUAGE="en_US:en" \
