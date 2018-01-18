@@ -1,4 +1,4 @@
-FROM ubuntu:zesty
+FROM ubuntu:xenial
 MAINTAINER LiquidM <tech@liquidm.com>
 
 ENV OS_LOCALE="en_US.UTF-8" \
