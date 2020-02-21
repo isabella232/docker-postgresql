@@ -3,7 +3,7 @@ MAINTAINER LiquidM <tech@liquidm.com>
 
 ENV OS_LOCALE="en_US.UTF-8" \
     OS_LANGUAGE="en_US:en" \
-	PG_VERSION=9.6 \
+    PG_VERSION=9.6 \
     PG_USER=postgres \
     PG_HOME=/var/lib/postgresql \
     PG_RUN_DIR=/run/postgresql \
